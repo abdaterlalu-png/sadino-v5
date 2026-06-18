@@ -1,0 +1,10 @@
+.env
+backups/*
+storage/uploads/*
+storage/sessions/*
+storage/logs/*
+storage/monitor/*
+deploy-config.local.bat
+.git
+*.zip
+*.tar.gz

@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+backups/*
+!backups/.gitkeep
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/logs/*
+!storage/logs/.gitkeep
+storage/sessions/*
+!storage/sessions/.gitkeep
+*.sql
+*.sql.gz
+*.tar.gz
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1861 @@
+{
+  "monthly": [
+    {
+      "idx": 0,
+      "month": "Jan",
+      "monthLong": "Januari",
+      "revenue": 23394648.85,
+      "cogs": 708491.16,
+      "opex": 11514464.75,
+      "expense": 11921619.58,
+      "gross": 23189686.98,
+      "net": 9838512.52,
+      "ebitda": 9964599.78,
+      "depreciation": 0.0,
+      "cashIn": 22779916.83,
+      "cashOut": 12831329.62,
+      "cashNet": 12361942.8,
+      "cashBalance": 135461549.16
+    },
+    {
+      "idx": 1,
+      "month": "Feb",
+      "monthLong": "Februari",
+      "revenue": 73377889.75,
+      "cogs": 3872141.46,
+      "opex": 118068785.28,
+      "expense": 106787034.81,
+      "gross": 69505980.54,
+      "net": -37231173.48,
+      "ebitda": -39241015.72,
+      "depreciation": 0.0,
+      "cashIn": 231814912.09,
+      "cashOut": 335030138.25,
+      "cashNet": -66416120.44,
+      "cashBalance": 75507632.96
+    },
+    {
+      "idx": 2,
+      "month": "Mar",
+      "monthLong": "Maret",
+      "revenue": 4558274.77,
+      "cogs": 790850.42,
+      "opex": 119357947.98,
+      "expense": 133968958.83,
+      "gross": 3398940.85,
+      "net": -120744845.5,
+      "ebitda": -119879292.59,
+      "depreciation": 0.0,
+      "cashIn": 173429727.3,
+      "cashOut": 216585342.3,
+      "cashNet": -26055133.7,
+      "cashBalance": 42951629.8
+    },
+    {
+      "idx": 3,
+      "month": "Apr",
+      "monthLong": "April",
+      "revenue": 874954.08,
+      "cogs": 36386350.0,
+      "opex": 86950171.87,
+      "expense": 129662119.69,
+      "gross": -36463607.18,
+      "net": -122352741.94,
+      "ebitda": -130363601.06,
+      "depreciation": 0.0,
+      "cashIn": 285063636.03,
+      "cashOut": 123019429.67,
+      "cashNet": 156847277.81,
+      "cashBalance": 188280767.56
+    },
+    {
+      "idx": 4,
+      "month": "Mei",
+      "monthLong": "Mei",
+      "revenue": 0.0,
+      "cogs": 15853125.0,
+      "opex": 116709168.06,
+      "expense": 127705769.52,
+      "gross": -16737518.0,
+      "net": -134013975.57,
+      "ebitda": -132163509.56,
+      "depreciation": 0.0,
+      "cashIn": 15934073.76,
+      "cashOut": 130966595.48,
+      "cashNet": -115616105.93,
+      "cashBalance": 85127231.23
+    },
+    {
+      "idx": 5,
+      "month": "Jun",
+      "monthLong": "Juni",
+      "revenue": 45809203.94,
+      "cogs": 0.0,
+      "opex": 186283933.9,
+      "expense": 176846185.14,
+      "gross": 46705582.33,
+      "net": -128592580.79,
+      "ebitda": -132129099.25,
+      "depreciation": 0.0,
+      "cashIn": 160353322.44,
+      "cashOut": 181839477.77,
+      "cashNet": -35004637.98,
+      "cashBalance": 39076011.63
+    },
+    {
+      "idx": 6,
+      "month": "Jul",
+      "monthLong": "Juli",
+      "revenue": 2078580.0,
+      "cogs": 31993875.9,
+      "opex": 153065438.56,
+      "expense": 179376237.34,
+      "gross": -28342426.0,
+      "net": -206155763.14,
+      "ebitda": -208101399.56,
+      "depreciation": 0.0,
+      "cashIn": 290776100.19,
+      "cashOut": 295938858.38,
+      "cashNet": 25860030.07,
+      "cashBalance": 62509410.17
+    },
+    {
+      "idx": 7,
+      "month": "Agu",
+      "monthLong": "Agustus",
+      "revenue": 34137783.04,
+      "cogs": 23675662.5,
+      "opex": 168237801.46,
+      "expense": 229294645.89,
+      "gross": 13462547.08,
+      "net": -158297531.64,
+      "ebitda": -187141703.23,
+      "depreciation": 0.0,
+      "cashIn": 137926395.87,
+      "cashOut": 204920246.61,
+      "cashNet": -47573055.02,
+      "cashBalance": 16703437.02
+    },
+    {
+      "idx": 8,
+      "month": "Sep",
+      "monthLong": "September",
+      "revenue": 110370310.0,
+      "cogs": 47386339.42,
+      "opex": 179757816.37,
+      "expense": 233291348.73,
+      "gross": 64451357.27,
+      "net": -100149413.23,
+      "ebitda": -116896409.48,
+      "depreciation": 0.0,
+      "cashIn": 470654545.63,
+      "cashOut": 340340973.52,
+      "cashNet": 118053697.15,
+      "cashBalance": 140094226.65
+    },
+    {
+      "idx": 9,
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "revenue": 105809710.78,
+      "cogs": 59831425.5,
+      "opex": 283362661.61,
+      "expense": 343621694.41,
+      "gross": 47053872.84,
+      "net": -201270413.5,
+      "ebitda": -219133202.18,
+      "depreciation": 0.0,
+      "cashIn": 470422959.56,
+      "cashOut": 497971093.42,
+      "cashNet": -73061103.68,
+      "cashBalance": 78310520.64
+    },
+    {
+      "idx": 10,
+      "month": "Nov",
+      "monthLong": "November",
+      "revenue": 147951048.76,
+      "cogs": 11384081.5,
+      "opex": 156296997.08,
+      "expense": 175502986.36,
+      "gross": 131167745.98,
+      "net": -37587847.89,
+      "ebitda": -35093368.54,
+      "depreciation": 0.0,
+      "cashIn": 180863344.66,
+      "cashOut": 227770151.42,
+      "cashNet": -46795818.44,
+      "cashBalance": 25783572.35
+    },
+    {
+      "idx": 11,
+      "month": "Des",
+      "monthLong": "Desember",
+      "revenue": 40929392.84,
+      "cogs": 165376976.92,
+      "opex": 326965024.15,
+      "expense": 475415939.46,
+      "gross": -131785123.58,
+      "net": -461532043.31,
+      "ebitda": -194984166.8,
+      "depreciation": 235704136.06,
+      "cashIn": 260712365.14,
+      "cashOut": 208078170.59,
+      "cashNet": 64317885.99,
+      "cashBalance": 85956226.68
+    }
+  ],
+  "services": [
+    {
+      "name": "Gas Composition",
+      "value": 273154553.9,
+      "count": 8
+    },
+    {
+      "name": "Crude Oil Assay",
+      "value": 101455000.0,
+      "count": 1
+    },
+    {
+      "name": "Water & Amine",
+      "value": 78956280.77,
+      "count": 15
+    },
+    {
+      "name": "Other Analysis",
+      "value": 31228020.0,
+      "count": 5
+    },
+    {
+      "name": "Scale Analysis",
+      "value": 30762725.0,
+      "count": 1
+    },
+    {
+      "name": "Hydrocarbon/Condensate",
+      "value": 22538400.0,
+      "count": 3
+    },
+    {
+      "name": "Particulate in Gas",
+      "value": 22379700.0,
+      "count": 1
+    },
+    {
+      "name": "Fuel / Lube Quality",
+      "value": 14376300.84,
+      "count": 7
+    },
+    {
+      "name": "Biogas Analysis",
+      "value": 13068750.0,
+      "count": 1
+    }
+  ],
+  "customers": [
+    {
+      "name": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "value": 173394405.0,
+      "count": 3
+    },
+    {
+      "name": "PRIMA ENERGI BAWEAN",
+      "alias": "PEB",
+      "value": 111878600.0,
+      "count": 1
+    },
+    {
+      "name": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "value": 107948400.0,
+      "count": 11
+    },
+    {
+      "name": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "value": 76394528.0,
+      "count": 4
+    },
+    {
+      "name": "ARKEEN ENERGI PRIMATAMA",
+      "alias": "ARKEEN",
+      "value": 39075390.0,
+      "count": 1
+    },
+    {
+      "name": "BAHTERA ABADI GAS",
+      "alias": "BAG",
+      "value": 23632500.0,
+      "count": 1
+    },
+    {
+      "name": "SUPERINTENDING COMPANY OF INDONESIA",
+      "alias": "SUCOFINDO",
+      "value": 19336800.0,
+      "count": 1
+    },
+    {
+      "name": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "value": 19413336.9,
+      "count": 14
+    },
+    {
+      "name": "SURYA PAMENANG",
+      "alias": "SURYA PAMENANG",
+      "value": 16239350.0,
+      "count": 1
+    },
+    {
+      "name": "GREENFIELDS INDONESIA",
+      "alias": "GREENFIELDS",
+      "value": 13253750.0,
+      "count": 1
+    },
+    {
+      "name": "HUSEN BIN MUHAMMAD MAULADAWILAH",
+      "alias": "HUSEN BIN MUHAMMAD",
+      "value": 5575360.0,
+      "count": 1
+    },
+    {
+      "name": "GOCHEM GLOBALINDO",
+      "alias": "GOCHEM GLOBALINDO",
+      "value": 1847600.0,
+      "count": 1
+    },
+    {
+      "name": "ZIAN AWALINA SAFITRI",
+      "alias": "ZIAN AWALINA SAFIT",
+      "value": 2148748.0,
+      "count": 1
+    },
+    {
+      "name": "MULTIKARYA ASIA PASIFIK RAYA TBK",
+      "alias": "MULTIKARYA ASIA PA",
+      "value": 1348639.5,
+      "count": 1
+    }
+  ],
+  "invoices": [
+    {
+      "customer": "SUPERINTENDING COMPANY OF INDONESIA",
+      "alias": "SUCOFINDO",
+      "service": "Particulate in Gas, Particulate in Gas, Mob Demob",
+      "category": "Particulate in Gas",
+      "taxInvoice": "03012500015098970",
+      "date": "2025-02-03",
+      "month": "Feb",
+      "monthLong": "Februari",
+      "monthIdx": 1,
+      "year": 2025,
+      "dpp": 20785800.0,
+      "ppn": 2412795.0,
+      "status": "APPROVED",
+      "invoice": "INV/001/DNDJ/II/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Sulphur Content",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500032687191",
+      "date": "2025-02-14",
+      "month": "Feb",
+      "monthLong": "Februari",
+      "monthIdx": 1,
+      "year": 2025,
+      "dpp": 1808468.67,
+      "ppn": 191221.43,
+      "status": "APPROVED",
+      "invoice": "INV/002/DNDJ/II/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content, Kandungan FAME, Sulphur Content",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500017192703",
+      "date": "2025-02-04",
+      "month": "Feb",
+      "monthLong": "Februari",
+      "monthIdx": 1,
+      "year": 2025,
+      "dpp": 1766273.07,
+      "ppn": 225172.86,
+      "status": "APPROVED",
+      "invoice": "INV/003/DNDJ/II/2025"
+    },
+    {
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "service": "12 Ion Analysis (Scale Index and Scale Saturation Index), Scale Analysis, H2S in Gas by Tutwiler, CO2 in Gas by Orsat, Man Power / Onsite Analysis, Mob Demob",
+      "category": "Scale Analysis",
+      "taxInvoice": "04012500032639463",
+      "date": "2025-02-14",
+      "month": "Feb",
+      "monthLong": "Februari",
+      "monthIdx": 1,
+      "year": 2025,
+      "dpp": 33763887.5,
+      "ppn": 3881762.5,
+      "status": "APPROVED",
+      "invoice": "INV/004/DNDJ/II/2025"
+    },
+    {
+      "customer": "ARKEEN ENERGI PRIMATAMA",
+      "alias": "ARKEEN",
+      "service": "Gas Composition, Condensate Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500042598599",
+      "date": "2025-02-20",
+      "month": "Feb",
+      "monthLong": "Februari",
+      "monthIdx": 1,
+      "year": 2025,
+      "dpp": 36277380.0,
+      "ppn": 4299995.7,
+      "status": "APPROVED",
+      "invoice": "INV/005/DNDJ/II/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "FAME Analysis",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500091273248",
+      "date": "2025-03-27",
+      "month": "Mar",
+      "monthLong": "Maret",
+      "monthIdx": 2,
+      "year": 2025,
+      "dpp": 1174271.27,
+      "ppn": 110273.59,
+      "status": "APPROVED",
+      "invoice": "INV/006/DNDJ/III/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Sulphur Content",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500075219561",
+      "date": "2025-03-17",
+      "month": "Mar",
+      "monthLong": "Maret",
+      "monthIdx": 2,
+      "year": 2025,
+      "dpp": 983332.35,
+      "ppn": 106362.96,
+      "status": "APPROVED",
+      "invoice": "INV/007/DNDJ/III/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "FAME Content",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500075219589",
+      "date": "2025-03-17",
+      "month": "Mar",
+      "monthLong": "Maret",
+      "monthIdx": 2,
+      "year": 2025,
+      "dpp": 1045081.97,
+      "ppn": 112235.75,
+      "status": "APPROVED",
+      "invoice": "INV/008/DNDJ/III/2025"
+    },
+    {
+      "customer": "MULTIKARYA ASIA PASIFIK RAYA TBK",
+      "alias": "MULTIKARYA ASIA PA",
+      "service": "Analysis Water",
+      "category": "Water & Amine",
+      "taxInvoice": "04022500069806108",
+      "date": "2025-03-14",
+      "month": "Mar",
+      "monthLong": "Maret",
+      "monthIdx": 2,
+      "year": 2025,
+      "dpp": 1405966.5,
+      "ppn": 171621.61,
+      "status": "APPROVED",
+      "invoice": "INV/009/DNDJ/III/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Sulphur Content",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500091273247",
+      "date": "2025-04-09",
+      "month": "Apr",
+      "monthLong": "April",
+      "monthIdx": 3,
+      "year": 2025,
+      "dpp": 940269.33,
+      "ppn": 106699.89,
+      "status": "APPROVED",
+      "invoice": "INV/010/DNDJ/IV/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Sulfur Analysis, Sulfur Analysis, Water Content & FAME Analysis, Water Content & FAME, Sulfur Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500155719374",
+      "date": "2025-06-04",
+      "month": "Jun",
+      "monthLong": "Juni",
+      "monthIdx": 5,
+      "year": 2025,
+      "dpp": 4654234.55,
+      "ppn": 488209.43,
+      "status": "APPROVED",
+      "invoice": "INV/011/DNDJ/VI/2025"
+    },
+    {
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "service": "Water Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500187354268",
+      "date": "2025-06-30",
+      "month": "Jun",
+      "monthLong": "Juni",
+      "monthIdx": 5,
+      "year": 2025,
+      "dpp": 39698600.0,
+      "ppn": 4544078.0,
+      "status": "APPROVED",
+      "invoice": "INV/012/DNDJ/VI/2025"
+    },
+    {
+      "customer": "ZIAN AWALINA SAFITRI",
+      "alias": "ZIAN AWALINA SAFIT",
+      "service": "Liquid Analysis",
+      "category": "Other Analysis",
+      "taxInvoice": "04002500218352290",
+      "date": "2025-07-21",
+      "month": "Jul",
+      "monthLong": "Juli",
+      "monthIdx": 6,
+      "year": 2025,
+      "dpp": 1802416.0,
+      "ppn": 229702.0,
+      "status": "APPROVED",
+      "invoice": "INV/013/DNDJ/VII/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500255874578",
+      "date": "2025-08-19",
+      "month": "Agu",
+      "monthLong": "Agustus",
+      "monthIdx": 7,
+      "year": 2025,
+      "dpp": 958585.59,
+      "ppn": 111123.77,
+      "status": "APPROVED",
+      "invoice": "INV/014/DNDJ/VIII/2025"
+    },
+    {
+      "customer": "GREENFIELDS INDONESIA",
+      "alias": "GREENFIELDS",
+      "service": "Jasa Analisa Biogas",
+      "category": "Biogas Analysis",
+      "taxInvoice": "04002500265388532",
+      "date": "2025-08-28",
+      "month": "Agu",
+      "monthLong": "Agustus",
+      "monthIdx": 7,
+      "year": 2025,
+      "dpp": 13410000.0,
+      "ppn": 1422162.5,
+      "status": "APPROVED",
+      "invoice": "INV/015/DNDJ/VIII/2025"
+    },
+    {
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "service": "HP Separator Bottom Deposit Analysis",
+      "category": "Other Analysis",
+      "taxInvoice": "04002500260611986",
+      "date": "2025-08-22",
+      "month": "Agu",
+      "monthLong": "Agustus",
+      "monthIdx": 7,
+      "year": 2025,
+      "dpp": 17483004.0,
+      "ppn": 1819513.08,
+      "status": "APPROVED",
+      "invoice": "INV/016/DNDJ/VIII/2025"
+    },
+    {
+      "customer": "HUSEN BIN MUHAMMAD MAULADAWILAH",
+      "alias": "HUSEN BIN MUHAMMAD",
+      "service": "Jasa",
+      "category": "Other Analysis",
+      "taxInvoice": "04022500236358744",
+      "date": "2025-08-07",
+      "month": "Agu",
+      "monthLong": "Agustus",
+      "monthIdx": 7,
+      "year": 2025,
+      "dpp": 5853120.0,
+      "ppn": 577068.8,
+      "status": "APPROVED",
+      "invoice": "INV/017/DNDJ/VIII/2025"
+    },
+    {
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "service": "Gas Composition, Water, & Scale Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500303057100",
+      "date": "2025-09-25",
+      "month": "Sep",
+      "monthLong": "September",
+      "monthIdx": 8,
+      "year": 2025,
+      "dpp": 92261767.5,
+      "ppn": 10109293.43,
+      "status": "APPROVED",
+      "invoice": "INV/018/DNDJ/IX/2025"
+    },
+    {
+      "customer": "SURYA PAMENANG",
+      "alias": "SURYA PAMENANG",
+      "service": "Gas Compositional Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500293655960",
+      "date": "2025-09-17",
+      "month": "Sep",
+      "monthLong": "September",
+      "monthIdx": 8,
+      "year": 2025,
+      "dpp": 16264150.0,
+      "ppn": 1651804.0,
+      "status": "APPROVED",
+      "invoice": "INV/019/DNDJ/IX/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis - DJ250024, Water Content & FAME Analysis - DJ250039",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500348124459",
+      "date": "2025-10-29",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 1958198.22,
+      "ppn": 219129.89,
+      "status": "APPROVED",
+      "invoice": "INV/020/DNDJ/X/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500340280055",
+      "date": "2025-10-21",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 1074531.54,
+      "ppn": 119593.77,
+      "status": "APPROVED",
+      "invoice": "INV/021/DNDJ/X/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500323404565",
+      "date": "2025-10-13",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 967801.81,
+      "ppn": 105727.83,
+      "status": "APPROVED",
+      "invoice": "INV/022/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Gas Composition Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500340268690",
+      "date": "2025-10-21",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 21790250.0,
+      "ppn": 2303273.5,
+      "status": "APPROVED",
+      "invoice": "INV/023/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Hydrocarbon Composition Analysis",
+      "category": "Hydrocarbon/Condensate",
+      "taxInvoice": "04002500334154401",
+      "date": "2025-10-17",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 9545000.0,
+      "ppn": 1073600.0,
+      "status": "APPROVED",
+      "invoice": "INV/024/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Hydrocarbon Composition Analysis",
+      "category": "Hydrocarbon/Condensate",
+      "taxInvoice": "04002500328309899",
+      "date": "2025-10-15",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 5046000.0,
+      "ppn": 569250.0,
+      "status": "APPROVED",
+      "invoice": "INV/025/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Amine Strength & Water Content Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500313781954",
+      "date": "2025-10-06",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 2406075.0,
+      "ppn": 274341.38,
+      "status": "APPROVED",
+      "invoice": "INV/026/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Amine Strength, Water Content",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500323642121",
+      "date": "2025-10-13",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 2772262.5,
+      "ppn": 310810.5,
+      "status": "APPROVED",
+      "invoice": "INV/027/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Condensate (Analisa Hydrocarbon Composition c36+), MEA (Analisa Oil Content)",
+      "category": "Hydrocarbon/Condensate",
+      "taxInvoice": "04002500323652921",
+      "date": "2025-10-13",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 9154800.0,
+      "ppn": 1033461.0,
+      "status": "APPROVED",
+      "invoice": "INV/028/DNDJ/X/2025"
+    },
+    {
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "service": "FLARE GAS ANALYSIS, MOLTEN SULPHUR ANALYSIS",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500319594105",
+      "date": "2025-10-07",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 17093689.2,
+      "ppn": 1709686.44,
+      "status": "APPROVED",
+      "invoice": "INV/029/DNDJ/X/2025"
+    },
+    {
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "service": "CBU OUTLET GAS ANALYSIS, ACID ANALYSIS OUTLET GTU, MOLTEN SULPHUR ANALYSIS",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500319604668",
+      "date": "2025-10-07",
+      "month": "Okt",
+      "monthLong": "Oktober",
+      "monthIdx": 9,
+      "year": 2025,
+      "dpp": 41563368.0,
+      "ppn": 4393531.3,
+      "status": "APPROVED",
+      "invoice": "INV/030/DNDJ/X/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Gas Composition Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500352911076",
+      "date": "2025-11-03",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 20231500.0,
+      "ppn": 2229249.0,
+      "status": "APPROVED",
+      "invoice": "INV/031/DNDJ/XI/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500358019752",
+      "date": "2025-11-06",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 947981.99,
+      "ppn": 113674.59,
+      "status": "APPROVED",
+      "invoice": "INV/032/DNDJ/XI/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Sulphur Content & Flash Point Analysis",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500369650615",
+      "date": "2025-11-12",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 853964.06,
+      "ppn": 90784.59,
+      "status": "APPROVED",
+      "invoice": "INV/033/DNDJ/XI/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Demin & Inferior Analysis",
+      "category": "Other Analysis",
+      "taxInvoice": "04002500389584072",
+      "date": "2025-11-27",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 7530000.0,
+      "ppn": 818647.5,
+      "status": "APPROVED",
+      "invoice": "INV/034/DNDJ/XI/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Zeolite Analysis",
+      "category": "Other Analysis",
+      "taxInvoice": "04002500389578305",
+      "date": "2025-11-27",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 1464000.0,
+      "ppn": 159142.5,
+      "status": "APPROVED",
+      "invoice": "INV/035/DNDJ/XI/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Amine Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500352917772",
+      "date": "2025-11-03",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 10483200.0,
+      "ppn": 1247746.5,
+      "status": "APPROVED",
+      "invoice": "INV/036/DNDJ/XI/2025"
+    },
+    {
+      "customer": "PRIMA ENERGI BAWEAN",
+      "alias": "PEB",
+      "service": "Crude Oil Assay Type B",
+      "category": "Crude Oil Assay",
+      "taxInvoice": "03002500372320473",
+      "date": "2025-11-14",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 99714300.0,
+      "ppn": 12094775.0,
+      "status": "APPROVED",
+      "invoice": "INV/037/DNDJ/XI/2025"
+    },
+    {
+      "customer": "GOCHEM GLOBALINDO",
+      "alias": "GOCHEM GLOBALINDO",
+      "service": "Analisa CO2 Loading dalam Amine",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500382545003",
+      "date": "2025-11-20",
+      "month": "Nov",
+      "monthLong": "November",
+      "monthIdx": 10,
+      "year": 2025,
+      "dpp": 1988400.0,
+      "ppn": 215468.0,
+      "status": "APPROVED",
+      "invoice": "INV/038/DNDJ/XI/2025"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "service": "Amine & Water Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500417994171",
+      "date": "2025-12-16",
+      "month": "Des",
+      "monthLong": "Desember",
+      "monthIdx": 11,
+      "year": 2025,
+      "dpp": 8021025.0,
+      "ppn": 845202.6,
+      "status": "APPROVED",
+      "invoice": "INV/039/DNDJ/XII/2025"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "service": "Water Content & FAME Analysis",
+      "category": "Water & Amine",
+      "taxInvoice": "04002500417969845",
+      "date": "2025-12-16",
+      "month": "Des",
+      "monthLong": "Desember",
+      "monthIdx": 11,
+      "year": 2025,
+      "dpp": 1048270.28,
+      "ppn": 101498.28,
+      "status": "APPROVED",
+      "invoice": "INV/040/DNDJ/XII/2025"
+    },
+    {
+      "customer": "BAHTERA ABADI GAS",
+      "alias": "BAG",
+      "service": "Gas Analysis",
+      "category": "Gas Composition",
+      "taxInvoice": "04002500422595262",
+      "date": "2025-12-18",
+      "month": "Des",
+      "monthLong": "Desember",
+      "monthIdx": 11,
+      "year": 2025,
+      "dpp": 25228700.0,
+      "ppn": 2331648.0,
+      "status": "APPROVED",
+      "invoice": "INV/041/DNDJ/XII/2025"
+    },
+    {
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "service": "Molten Sulphur Analysis",
+      "category": "Fuel / Lube Quality",
+      "taxInvoice": "04002500396108813",
+      "date": "2025-12-03",
+      "month": "Des",
+      "monthLong": "Desember",
+      "monthIdx": 11,
+      "year": 2025,
+      "dpp": 8403813.6,
+      "ppn": 1061183.2,
+      "status": "APPROVED",
+      "invoice": "INV/042/DNDJ/XII/2025"
+    }
+  ],
+  "ar": [
+    {
+      "customer": "ARKEEN ENERGI PRIMATAMA",
+      "alias": "ARKEEN",
+      "opening": 0.0,
+      "debit": 45328226.4,
+      "credit": 14280705.0,
+      "ending": 27843328.8,
+      "status": "Overdue"
+    },
+    {
+      "customer": "BAHTERA ABADI GAS",
+      "alias": "BAG",
+      "opening": 0.0,
+      "debit": 24799842.0,
+      "credit": 0.0,
+      "ending": 23219535.0,
+      "status": "Overdue"
+    },
+    {
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "opening": 0.0,
+      "debit": 114614959.2,
+      "credit": 99558924.75,
+      "ending": 19525704.75,
+      "status": "Overdue"
+    },
+    {
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "opening": 0.0,
+      "debit": 89321324.82,
+      "credit": 76209461.84,
+      "ending": 9790592.03,
+      "status": "Overdue"
+    },
+    {
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "opening": 2800000.0,
+      "debit": 21280002.75,
+      "credit": 22159830.0,
+      "ending": 2222643.06,
+      "status": "Open"
+    },
+    {
+      "customer": "PT BUREAU VERITAS INDONESIA",
+      "alias": "BVI",
+      "opening": 147075000.0,
+      "debit": 0.0,
+      "credit": 160444117.5,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "GREENFIELDS INDONESIA",
+      "alias": "GREENFIELDS",
+      "opening": 17926500.0,
+      "debit": 12695625.0,
+      "credit": 29126993.85,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "GOCHEM GLOBALINDO",
+      "alias": "GOCHEM GLOBALINDO",
+      "opening": 0.0,
+      "debit": 2040180.0,
+      "credit": 2319456.0,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "HUSEN BIN MUHAMMADMAULAD / PT. PERTAMINA EP",
+      "alias": "PEPC",
+      "opening": 0.0,
+      "debit": 6304267.2,
+      "credit": 5806987.2,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "MULTIKARYA ASIA PASIFIK RAYA TBK",
+      "alias": "MULTIKARYA ASIA PA",
+      "opening": 0.0,
+      "debit": 1774293.93,
+      "credit": 1577257.83,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "PRIMA ENERGI BAWEAN",
+      "alias": "PEB",
+      "opening": 0.0,
+      "debit": 112084600.0,
+      "credit": 107068500.0,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "SUCOFINDO",
+      "alias": "SUCOFINDO",
+      "opening": 0.0,
+      "debit": 18931500.0,
+      "credit": 22806000.0,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "SURYA PAMENANG",
+      "alias": "SURYA PAMENANG",
+      "opening": 0.0,
+      "debit": 16293135.0,
+      "credit": 16155495.0,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "opening": 0.0,
+      "debit": 168771515.1,
+      "credit": 170940266.4,
+      "ending": 0.0,
+      "status": "Paid"
+    },
+    {
+      "customer": "ZIAN AWALINA SAFITRI",
+      "alias": "ZIAN AWALINA SAFIT",
+      "opening": 0.0,
+      "debit": 2387100.0,
+      "credit": 2298374.0,
+      "ending": 0.0,
+      "status": "Paid"
+    }
+  ],
+  "arInvoices": [
+    {
+      "date": "2025-01-03",
+      "customer": "SUCOFINDO",
+      "alias": "SUCOFINDO",
+      "invoice": "001/INV-DNDJ/II/2025",
+      "displayInvoice": "INV/001/DNDJ/I/2025",
+      "description": "Particulate in Gas, Particulate in Gas, Mob Demob",
+      "amount": 21812700.0
+    },
+    {
+      "date": "2025-01-25",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "003/INV-DNDJ/II/2025",
+      "displayInvoice": "INV/002/DNDJ/I/2025",
+      "description": "Sulphur Content",
+      "amount": 1832600.0
+    },
+    {
+      "date": "2025-02-06",
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "invoice": "004/INV-DNDJ/II/2025",
+      "displayInvoice": "INV/003/DNDJ/II/2025",
+      "description": "12 Ion Analysis (Scale Index and Scale Saturation Index), Scale Analysis, H2S in Gas by Tutwiler, CO2 in Gas by Orsat, Man Power / Onsite Analysis, Mob Demob",
+      "amount": 34096314.0
+    },
+    {
+      "date": "2025-02-18",
+      "customer": "ARKEEN ENERGI PRIMATAMA",
+      "alias": "ARKEEN",
+      "invoice": "005/INV-DNDJ/II/2025",
+      "displayInvoice": "INV/004/DNDJ/II/2025",
+      "description": "Gas Composition, Condensate Analysis",
+      "amount": 45109145.7
+    },
+    {
+      "date": "2025-03-27",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "007/INV-DNDJ/III/2025",
+      "displayInvoice": "INV/005/DNDJ/III/2025",
+      "description": "FAME Analysis",
+      "amount": 1159080.97
+    },
+    {
+      "date": "2025-03-17",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "008/INV-DNDJ/III/2025",
+      "displayInvoice": "INV/006/DNDJ/III/2025",
+      "description": "Sulphur Content",
+      "amount": 965299.03
+    },
+    {
+      "date": "2025-03-17",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "009/INV-DNDJ/III/2025",
+      "displayInvoice": "INV/007/DNDJ/III/2025",
+      "description": "FAME Content",
+      "amount": 1145400.95
+    },
+    {
+      "date": "2025-03-14",
+      "customer": "MULTIKARYA ASIA PASIFIK RAYA TBK",
+      "alias": "MULTIKARYA ASIA PA",
+      "invoice": "006/INV-DNDJ/III/2025",
+      "displayInvoice": "INV/008/DNDJ/III/2025",
+      "description": "Analysis Water",
+      "amount": 1525899.24
+    },
+    {
+      "date": "2025-04-09",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "010/INV-DNDJ/IV/2025",
+      "displayInvoice": "INV/009/DNDJ/IV/2025",
+      "description": "Sulphur Content",
+      "amount": 949399.05
+    },
+    {
+      "date": "2025-06-04",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "011/INV-DNDJ/V/2025",
+      "displayInvoice": "INV/010/DNDJ/VI/2025",
+      "description": "Sulfur Analysis, Sulfur Analysis, Water Content & FAME Analysis, Water Content & FAME, Sulfur Analysis",
+      "amount": 5373160.0
+    },
+    {
+      "date": "2025-06-30",
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "invoice": "012/INV-DNDJ/VI/2025",
+      "displayInvoice": "INV/011/DNDJ/VI/2025",
+      "description": "Water Analysis",
+      "amount": 41184552.0
+    },
+    {
+      "date": "2025-07-21",
+      "customer": "ZIAN AWALINA SAFITRI",
+      "alias": "ZIAN AWALINA SAFIT",
+      "invoice": "013/INV-DNDJ/VII/2025",
+      "displayInvoice": "INV/012/DNDJ/VII/2025",
+      "description": "Liquid Analysis",
+      "amount": 2316032.0
+    },
+    {
+      "date": "2025-08-19",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "016/INV-DNDJ/VIII/2025",
+      "displayInvoice": "INV/013/DNDJ/VIII/2025",
+      "description": "Water Content & FAME Analysis",
+      "amount": 1087680.0
+    },
+    {
+      "date": "2025-08-28",
+      "customer": "GREENFIELDS INDONESIA",
+      "alias": "GREENFIELDS",
+      "invoice": "017/INV-DNDJ/VIII/2025",
+      "displayInvoice": "INV/014/DNDJ/VIII/2025",
+      "description": "Jasa Analisa Biogas",
+      "amount": 14516025.0
+    },
+    {
+      "date": "2025-08-22",
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "invoice": "015/INV-DNDJ/VIII/2025",
+      "displayInvoice": "INV/015/DNDJ/VIII/2025",
+      "description": "HP Separator Bottom Deposit Analysis",
+      "amount": 19157463.36
+    },
+    {
+      "date": "2025-08-07",
+      "customer": "HUSEN BIN MUHAMMADMAULAD / PT. PERTAMINA EP",
+      "alias": "PEPC",
+      "invoice": "014/INV-DNDJ/VIII/2025",
+      "displayInvoice": "INV/016/DNDJ/VIII/2025",
+      "description": "Jasa",
+      "amount": 6169380.0
+    },
+    {
+      "date": "2025-09-25",
+      "customer": "WILSON WALTON INDONESIA",
+      "alias": "WWI",
+      "invoice": "020/INV-DNDJ/IX/2025",
+      "displayInvoice": "INV/017/DNDJ/IX/2025",
+      "description": "Gas Composition, Water, & Scale Analysis",
+      "amount": 99181893.83
+    },
+    {
+      "date": "2025-09-17",
+      "customer": "SURYA PAMENANG",
+      "alias": "SURYA PAMENANG",
+      "invoice": "018/INV-DNDJ/IX/2025",
+      "displayInvoice": "INV/018/DNDJ/IX/2025",
+      "description": "Gas Compositional Analysis",
+      "amount": 17700504.0
+    },
+    {
+      "date": "2025-10-29",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "033/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/019/DNDJ/X/2025",
+      "description": "Water Content & FAME Analysis - DJ250024, Water Content & FAME Analysis - DJ250039",
+      "amount": 1982200.0
+    },
+    {
+      "date": "2025-10-21",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "029/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/020/DNDJ/X/2025",
+      "description": "Water Content & FAME Analysis",
+      "amount": 1192950.0
+    },
+    {
+      "date": "2025-10-13",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "023/INV-DNDJ/X/2026",
+      "displayInvoice": "INV/021/DNDJ/X/2025",
+      "description": "Water Content & FAME Analysis",
+      "amount": 1001330.0
+    },
+    {
+      "date": "2025-10-21",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "030/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/022/DNDJ/X/2025",
+      "description": "Gas Composition Analysis",
+      "amount": 23879319.0
+    },
+    {
+      "date": "2025-10-17",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "027/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/023/DNDJ/X/2025",
+      "description": "Hydrocarbon Composition Analysis",
+      "amount": 11923620.0
+    },
+    {
+      "date": "2025-10-15",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "026/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/024/DNDJ/X/2025",
+      "description": "Hydrocarbon Composition Analysis",
+      "amount": 5788650.0
+    },
+    {
+      "date": "2025-10-06",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "024/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/025/DNDJ/X/2025",
+      "description": "Amine Strength & Water Content Analysis",
+      "amount": 3128784.75
+    },
+    {
+      "date": "2025-10-13",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "022/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/026/DNDJ/X/2025",
+      "description": "Amine Strength, Water Content",
+      "amount": 2654717.62
+    },
+    {
+      "date": "2025-10-07",
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "invoice": "019/INV-DNDJ/IX/2025",
+      "displayInvoice": "INV/027/DNDJ/X/2025",
+      "description": "FLARE GAS ANALYSIS, MOLTEN SULPHUR ANALYSIS",
+      "amount": 18302583.1
+    },
+    {
+      "date": "2025-10-07",
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "invoice": "021/INV-DNDJ/IX/2025",
+      "displayInvoice": "INV/028/DNDJ/X/2025",
+      "description": "CBU OUTLET GAS ANALYSIS, ACID ANALYSIS OUTLET GTU, MOLTEN SULPHUR ANALYSIS",
+      "amount": 44059032.86
+    },
+    {
+      "date": "2025-11-03",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "031/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/029/DNDJ/XI/2025",
+      "description": "Gas Composition Analysis",
+      "amount": 26251500.0
+    },
+    {
+      "date": "2025-11-06",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "034/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/030/DNDJ/XI/2025",
+      "description": "Water Content & FAME Analysis",
+      "amount": 1063370.0
+    },
+    {
+      "date": "2025-11-12",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "035/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/031/DNDJ/XI/2025",
+      "description": "Sulphur Content & Flash Point Analysis",
+      "amount": 1051500.0
+    },
+    {
+      "date": "2025-11-27",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "037/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/032/DNDJ/XI/2025",
+      "description": "Demin & Inferior Analysis",
+      "amount": 8808682.5
+    },
+    {
+      "date": "2025-11-27",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "038/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/033/DNDJ/XI/2025",
+      "description": "Zeolite Analysis",
+      "amount": 1599565.5
+    },
+    {
+      "date": "2025-11-03",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "032/INV-DNDJ/X/2028",
+      "displayInvoice": "INV/034/DNDJ/XI/2025",
+      "description": "Amine Analysis",
+      "amount": 11273881.5
+    },
+    {
+      "date": "2025-11-04",
+      "customer": "PRIMA ENERGI BAWEAN",
+      "alias": "PEB",
+      "invoice": "028/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/035/DNDJ/XI/2025",
+      "description": "Crude Oil Assay Type B",
+      "amount": 101403500.0
+    },
+    {
+      "date": "2025-11-20",
+      "customer": "GOCHEM GLOBALINDO",
+      "alias": "GOCHEM GLOBALINDO",
+      "invoice": "036/INV-DNDJ/XI/2025",
+      "displayInvoice": "INV/036/DNDJ/XI/2025",
+      "description": "Analisa CO2 Loading dalam Amine",
+      "amount": 2226216.0
+    },
+    {
+      "date": "2025-12-16",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "041/INV-DNDJ/XII/2025",
+      "displayInvoice": "INV/037/DNDJ/XII/2025",
+      "description": "Amine & Water Analysis",
+      "amount": 7886056.05
+    },
+    {
+      "date": "2025-12-16",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "042/INV-DNDJ/XII/2025",
+      "displayInvoice": "INV/038/DNDJ/XII/2025",
+      "description": "Water Content & FAME Analysis",
+      "amount": 1170620.0
+    },
+    {
+      "date": "2025-12-18",
+      "customer": "BAHTERA ABADI GAS",
+      "alias": "BAG",
+      "invoice": "040/INV-DNDJ/XII/2025",
+      "displayInvoice": "INV/039/DNDJ/XII/2025",
+      "description": "Gas Analysis",
+      "amount": 25055142.0
+    },
+    {
+      "date": "2025-12-03",
+      "customer": "ARMADA GEMA NUSANTARA",
+      "alias": "PT AGN",
+      "invoice": "039/INV-DNDJ/XII/2025",
+      "displayInvoice": "INV/040/DNDJ/XII/2025",
+      "description": "Molten Sulphur Analysis",
+      "amount": 9175114.37
+    },
+    {
+      "date": "2025-02-04",
+      "customer": "TRI WAHANA UNIVERSAL",
+      "alias": "PT TWU",
+      "invoice": "002/INV-DNDJ/II/2025",
+      "displayInvoice": "INV/041/DNDJ/II/2025",
+      "description": "Water Content, Kandungan FAME, Sulphur Content",
+      "amount": 1975892.72
+    },
+    {
+      "date": "2025-10-20",
+      "customer": "LIKUID NUSANTARA GAS",
+      "alias": "LNG",
+      "invoice": "025/INV-DNDJ/X/2025",
+      "displayInvoice": "INV/042/DNDJ/X/2025",
+      "description": "Condensate (Analisa Hydrocarbon Composition c36+), MEA (Analisa Oil Content)",
+      "amount": 10234755.0
+    }
+  ],
+  "ap": [
+    {
+      "vendor": "PETROFIC LAB INDONESIA",
+      "beginning": 0.0,
+      "payment": 189010000.0,
+      "credit": 1119879000.0,
+      "outstanding": 968440500.0,
+      "status": "Belum Dibayar",
+      "priority": "High"
+    },
+    {
+      "vendor": "SANMAL CALIBRATION LABORATORY",
+      "beginning": 0.0,
+      "payment": 8806895.4,
+      "credit": 14810241.6,
+      "outstanding": 6092645.85,
+      "status": "Belum Dibayar",
+      "priority": "Medium"
+    },
+    {
+      "vendor": "MEDIA BANGUN PRATAMA",
+      "beginning": 0.0,
+      "payment": 0.0,
+      "credit": 880951.5,
+      "outstanding": 975640.05,
+      "status": "Belum Dibayar",
+      "priority": "Low"
+    },
+    {
+      "vendor": "BALAI BESAR PENGUJIAN MINYAK DAN GAS BUMI LEMIGAS DITJEN MINYAK DAN GAS BUMI KEMENTERIAN ENERGI DAN SUMBER DAYA MINERAL",
+      "beginning": 0.0,
+      "payment": 52424467.5,
+      "credit": 51475417.5,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "CAKRA MITRA SENTOSA",
+      "beginning": 0.0,
+      "payment": 6051440.0,
+      "credit": 5202432.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "CHONGQING KOLERY",
+      "beginning": 24749291.27,
+      "payment": 24378823.71,
+      "credit": 0.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "DINAMIKA LABORATORI INDONESIA",
+      "beginning": 0.0,
+      "payment": 1975858.56,
+      "credit": 1840066.89,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "GENELYS CONVERCAL INDONESIA",
+      "beginning": 0.0,
+      "payment": 3771258.3,
+      "credit": 3898297.8,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "HARTECH INDONESIA",
+      "beginning": 0.0,
+      "payment": 340756.52,
+      "credit": 303179.75,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "INDOFA UTAMA MULTI CORE",
+      "beginning": 0.0,
+      "payment": 15036718.2,
+      "credit": 16314478.34,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "KANTOR AKUNTAN PUBLIK SABAR & REKAN",
+      "beginning": 0.0,
+      "payment": 14832930.0,
+      "credit": 16450644.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "MITRA MUTU INDONESIA",
+      "beginning": 0.0,
+      "payment": 23796180.0,
+      "credit": 25796677.5,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "NUSAFLUID SOLUSI UTAMA",
+      "beginning": 0.0,
+      "payment": 36938667.4,
+      "credit": 36065450.04,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "PERUM PERHUTANI",
+      "beginning": 0.0,
+      "payment": 45862080.0,
+      "credit": 51916480.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "PT BAGONG SUKSES MANDIRI",
+      "beginning": 23530975.47,
+      "payment": 23682543.75,
+      "credit": 0.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "PT FEDEX EXPRESS INTERNATIONAL",
+      "beginning": 0.0,
+      "payment": 225190.25,
+      "credit": 224785.49,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "RIBORA SUKSES ABADI",
+      "beginning": 0.0,
+      "payment": 3308412.25,
+      "credit": 2807925.52,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "RUCHI",
+      "beginning": 0.0,
+      "payment": 978320.7,
+      "credit": 1075523.4,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "SHAW MOISTURE METERS",
+      "beginning": 62862307.2,
+      "payment": 65926844.68,
+      "credit": 0.0,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "SINERGI UTAMA SERVICES",
+      "beginning": 105882000.0,
+      "payment": 132874428.96,
+      "credit": 27746070.6,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    },
+    {
+      "vendor": "SURYA INDOTIM IMEX",
+      "beginning": 0.0,
+      "payment": 89631324.51,
+      "credit": 90910851.48,
+      "outstanding": 0.0,
+      "status": "Sudah Dibayar",
+      "priority": "Closed"
+    }
+  ],
+  "assets": [
+    {
+      "name": "Aset Tetap Bersih",
+      "value": 4109954428.26
+    },
+    {
+      "name": "Sewa & Biaya Dibayar Dimuka",
+      "value": 205232962.18
+    },
+    {
+      "name": "PPN Lebih Bayar",
+      "value": 131174068.31
+    },
+    {
+      "name": "Piutang Usaha",
+      "value": 77792827.7
+    },
+    {
+      "name": "Mandiri 178 000 8866 440",
+      "value": 82094227.98
+    },
+    {
+      "name": "Pajak Dibayar Dimuka",
+      "value": 14914797.12
+    },
+    {
+      "name": "Mandiri USD 178 000 6258 541",
+      "value": 6879504.18
+    },
+    {
+      "name": "Mandiri 178 000 6258 509",
+      "value": 4770147.39
+    },
+    {
+      "name": "Kas Kecil",
+      "value": 1108619.36
+    }
+  ],
+  "expenses": [
+    {
+      "name": "Beban Gaji & Tunjangan",
+      "value": 783835636.22
+    },
+    {
+      "name": "Beban Transportasi & Perjalanan Dinas",
+      "value": 273155209.28
+    },
+    {
+      "name": "Beban Sewa Bangunan",
+      "value": 139404047.2
+    },
+    {
+      "name": "Beban Penyusutan Mesin & Peralatan Laboratorium",
+      "value": 125847431.34
+    },
+    {
+      "name": "Beban Internet & Telepon",
+      "value": 132231460.35
+    },
+    {
+      "name": "Beban Pembelian Bahan Kimia & Gas",
+      "value": 101604048.0
+    },
+    {
+      "name": "Beban Legal & Profesional",
+      "value": 90574870.0
+    },
+    {
+      "name": "Beban Penyusutan Bangunan",
+      "value": 86104909.83
+    },
+    {
+      "name": "Beban Perlengkapan & Pemeliharaan",
+      "value": 78939181.41
+    },
+    {
+      "name": "Beban Tenaga Ahli",
+      "value": 70144209.67
+    },
+    {
+      "name": "Beban Jasa Kalibrasi & Pemeliharaan Lab",
+      "value": 67841233.0
+    },
+    {
+      "name": "Beban BPJS Kesehatan & Ketenagakerjaan",
+      "value": 51994407.24
+    }
+  ],
+  "targets": [
+    {
+      "year": 2025,
+      "revenue": 583064525.39,
+      "ebitda": -1327023790.6,
+      "margin": -247.78,
+      "type": "Baseline"
+    },
+    {
+      "year": 2026,
+      "revenue": 45310000000.0,
+      "ebitda": 10558000000.0,
+      "margin": 20,
+      "type": "Target"
+    },
+    {
+      "year": 2027,
+      "revenue": 109290000000.0,
+      "ebitda": 23896800000.0,
+      "margin": 24,
+      "type": "Target"
+    },
+    {
+      "year": 2028,
+      "revenue": 151616000000.0,
+      "ebitda": 44867200000.0,
+      "margin": 28,
+      "type": "Target"
+    },
+    {
+      "year": 2029,
+      "revenue": 235175000000.0,
+      "ebitda": 69831680000.0,
+      "margin": 32,
+      "type": "Target"
+    },
+    {
+      "year": 2030,
+      "revenue": 311610000000.0,
+      "ebitda": 106291500000.0,
+      "margin": 35,
+      "type": "Target"
+    }
+  ],
+  "meta": {
+    "company": "PT DND JAVA INDONESIA",
+    "year": 2025,
+    "source": "SADINO demo seed ±10% (bukan data asli)",
+    "is_demo": true
+  }
+}

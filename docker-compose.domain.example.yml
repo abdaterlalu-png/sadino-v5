@@ -1,0 +1,21 @@
+# OPTIONAL DOMAIN OVERLAY — JANGAN DEPLOY sebelum Hostinger Traefik template
+# dan shared network/resolver sudah tervalidasi di Docker Manager.
+# Jalankan bersama docker-compose.yml hanya setelah mengisi variabel terkait.
+services:
+  app:
+    networks:
+      - sadino_internal
+      - hostinger_proxy
+    labels:
+      traefik.enable: "true"
+      traefik.docker.network: "${TRAEFIK_NETWORK:?Isi TRAEFIK_NETWORK}"
+      traefik.http.routers.sadino.rule: "Host(`${PUBLIC_DOMAIN:-sadino.dndjava.com}`)"
+      traefik.http.routers.sadino.entrypoints: "${TRAEFIK_ENTRYPOINT:?Isi TRAEFIK_ENTRYPOINT}"
+      traefik.http.routers.sadino.tls: "true"
+      traefik.http.routers.sadino.tls.certresolver: "${TRAEFIK_CERTRESOLVER:?Isi TRAEFIK_CERTRESOLVER}"
+      traefik.http.services.sadino.loadbalancer.server.port: "80"
+
+networks:
+  hostinger_proxy:
+    external: true
+    name: "${TRAEFIK_NETWORK:?Isi TRAEFIK_NETWORK}"

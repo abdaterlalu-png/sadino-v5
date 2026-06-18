@@ -1,0 +1,108 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sadino-v5-app:5.0.0
+    restart: unless-stopped
+    init: true
+    environment:
+      APP_NAME: ${APP_NAME:-SADINO - Financial Agent DND JAVA}
+      APP_ENV: production
+      APP_VERSION: 5.0.0
+      APP_URL: ${APP_URL:-http://187.77.114.198:8095}
+      PUBLIC_DOMAIN: ${PUBLIC_DOMAIN:-sadino.dndjava.com}
+      APP_TIMEZONE: ${APP_TIMEZONE:-Asia/Jakarta}
+      TRUST_PROXY: ${TRUST_PROXY:-false}
+      SESSION_SECURE_COOKIE: ${SESSION_SECURE_COOKIE:-false}
+      LOGIN_RATE_LIMIT_MAX_ATTEMPTS: ${LOGIN_RATE_LIMIT_MAX_ATTEMPTS:-5}
+      LOGIN_RATE_LIMIT_WINDOW_SECONDS: ${LOGIN_RATE_LIMIT_WINDOW_SECONDS:-900}
+      SEED_DEMO_DATA: ${SEED_DEMO_DATA:-true}
+      DB_DRIVER: mysql
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_DATABASE: ${DB_DATABASE:-sadino}
+      DB_USERNAME: ${DB_USERNAME:-sadino}
+      DB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD wajib diisi}
+      CREATOR_NAME: ${CREATOR_NAME:-SADINO Creator}
+      CREATOR_USERNAME: ${CREATOR_USERNAME:-creator}
+      CREATOR_EMAIL: ${CREATOR_EMAIL:-}
+      CREATOR_PASSWORD: ${CREATOR_PASSWORD:-}
+    ports:
+      - "${APP_BIND_IP:-0.0.0.0}:${APP_PORT:-8095}:80"
+    volumes:
+      - sadino_storage:/var/www/html/storage
+      - sadino_uploads:/var/www/html/storage/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://127.0.0.1/health.php >/dev/null || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 8
+      start_period: 75s
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - sadino_internal
+    labels:
+      com.dndjava.project: sadino
+      com.dndjava.version: "5.0.0"
+      com.dndjava.role: application
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+  db:
+    image: mariadb:11.4
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: ${DB_DATABASE:-sadino}
+      MARIADB_USER: ${DB_USERNAME:-sadino}
+      MARIADB_PASSWORD: ${DB_PASSWORD:?DB_PASSWORD wajib diisi}
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD:?DB_ROOT_PASSWORD wajib diisi}
+      TZ: ${APP_TIMEZONE:-Asia/Jakarta}
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+      - --innodb-flush-log-at-trx-commit=1
+      - --skip-name-resolve
+    volumes:
+      - sadino_db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 10s
+      timeout: 5s
+      retries: 18
+      start_period: 45s
+    security_opt:
+      - no-new-privileges:true
+    networks:
+      - sadino_internal
+    labels:
+      com.dndjava.project: sadino
+      com.dndjava.version: "5.0.0"
+      com.dndjava.role: database
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+
+networks:
+  sadino_internal:
+    name: sadino_internal
+    driver: bridge
+    labels:
+      com.dndjava.project: sadino
+
+volumes:
+  sadino_db_data:
+    name: sadino_db_data
+  sadino_storage:
+    name: sadino_storage
+  sadino_uploads:
+    name: sadino_uploads

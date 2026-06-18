@@ -1,0 +1,4 @@
+SADINO V5.0.0 — Hostinger Docker Manager Native
+Release ID: sadino-v5.0.0-hostinger-docker-manager-native
+Official production target: https://sadino.dndjava.com
+Default direct validation: http://187.77.114.198:8095/?page=login

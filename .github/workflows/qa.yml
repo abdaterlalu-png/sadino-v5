@@ -1,0 +1,21 @@
+name: SADINO QA
+on:
+  push:
+  pull_request:
+jobs:
+  static:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.3'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: PHP lint
+        run: find app cli public -name '*.php' -print0 | xargs -0 -n1 php -l
+      - name: JavaScript syntax
+        run: node --check public/assets/js/app.js
+      - name: Compose validation
+        run: docker compose config >/dev/null
