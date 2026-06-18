@@ -1,0 +1,24 @@
+name: Deploy SADINO V5
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy ke VPS
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: root
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            cd /opt/sadino-v5
+            git pull origin main
+            docker compose -p sadino-v5 --env-file .env up -d --build
+            until docker inspect sadino-v5-app-1 --format '{{.State.Health.Status}}' 2>/dev/null | grep -q healthy; do sleep 5; done
+            echo "Deploy selesai: $(date)"
+            curl -sk -o /dev/null -w "Status: %{http_code}" https://sadino.srv1730608.hstgr.cloud/health.php
