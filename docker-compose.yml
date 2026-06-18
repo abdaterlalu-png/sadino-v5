@@ -46,10 +46,18 @@ services:
       - no-new-privileges:true
     networks:
       - sadino_internal
+      - n8n_default
     labels:
       com.dndjava.project: sadino
       com.dndjava.version: "5.0.0"
       com.dndjava.role: application
+      traefik.enable: "true"
+      traefik.docker.network: "n8n_default"
+      traefik.http.routers.sadino.rule: "Host(`sadino.srv1730608.hstgr.cloud`)"
+      traefik.http.routers.sadino.entrypoints: "websecure"
+      traefik.http.routers.sadino.tls: "true"
+      traefik.http.routers.sadino.tls.certresolver: "mytlschallenge"
+      traefik.http.services.sadino.loadbalancer.server.port: "80"
     logging:
       driver: json-file
       options:
@@ -98,6 +106,8 @@ networks:
     driver: bridge
     labels:
       com.dndjava.project: sadino
+  n8n_default:
+    external: true
 
 volumes:
   sadino_db_data:
